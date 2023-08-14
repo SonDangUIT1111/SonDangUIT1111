@@ -23,9 +23,11 @@ I am studying in University of Information Technology HCM, major in Software Eng
 
 ## 📊 GitHub Stats:
 
-<a href="http://www.github.com/SonDangUIT1111"><img src="https://github-readme-stats.vercel.app/api?username=SonDangUIT1111&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true" alt="SonDangUIT1111's GitHub stats" /></a>
-<a href="http://www.github.com/SonDangUIT1111"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SonDangUIT1111&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" /></a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonDangUIT1111&theme=white&title_color=10b981&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SonDangUIT1111&theme=default&hide_border=false&title_color=10b981&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SonDangUIT1111&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false")<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonDangUIT1111&theme=default&hide_border=false&include_all_commits=false&title_color=10b981&ring=10b981&count_private=false&layout=compact)
+
+
 ## 🏆 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SonDangUIT1111&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
