@@ -23,15 +23,14 @@ I am studying in University of Information Technology HCM, major in Software Eng
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SonDangUIT1111&theme=default&hide_border=false&title_color=10b981&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SonDangUIT1111&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false")<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonDangUIT1111&theme=default&hide_border=false&include_all_commits=false&title_color=10b981&ring=10b981&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SonDangUIT1111&theme=default&hide_border=false&title_color=10b981&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonDangUIT1111&theme=default&hide_border=false&include_all_commits=false&title_color=10b981&ring=10b981&count_private=false&layout=compact&align=right)
 
 
 ## 🏆 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SonDangUIT1111&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-## 🌐 Socials
+
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100041084266761" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /> </picture> </a> <a href="https://www.github.com/SonDangUIT1111" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> </picture> </a></p>
 
