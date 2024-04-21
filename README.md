@@ -9,7 +9,7 @@ I am studying in University of Information Technology HCM, major in Software Eng
 
 * 🌍  I'm based in Ho Chi Minh city
 * ✉️  You can contact me at [sondanguit@gmail.com](mailto:sondanguit@gmail.com)
-* 🧠  I'm learning HTML, CSS, Javascript, Typescript, Reactjs, Nodejs, Expressjs, MongoDB
+* 🧠  I'm learning Flutter and MongoDB Atlas
 * 🤝  I'm open to collaborating on some Final Semester Projects in my process of studying in UIT
 
 ## 💻 Basic Knowledge:
